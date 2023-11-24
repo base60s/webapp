@@ -108,7 +108,7 @@ export function SaaSdashboard() {
   )
 }
 
-
+//@ts-ignore
 function IconMountain(props) {
   return (
     <svg
